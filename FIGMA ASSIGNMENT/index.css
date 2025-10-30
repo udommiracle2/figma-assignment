@@ -9,7 +9,7 @@
    font-family:  "Poppins", sans-serif;
 }
 
-header{
+header {
     width: 100%;
     border-bottom: 5px solid #000000;
 }
@@ -43,26 +43,26 @@ header{
     line-height: 100%;
 }
 
-.menu-con ul{
+.menu-con ul {
     display: flex;
     align-items: center;
     justify-content: space-around;
 }
 
-.menu-con li{
+.menu-con li {
     list-style: none;
     color: #000000;
     position: relative;
 }
 
-.menu-con a{
+.menu-con a {
     color: #000000;
     margin: 20px;
 }
 
 
 
-.hero{
+.hero {
    background-image: url(./british-library-gUDNK8NqYHk-unsplash\ 1.png);
    width: 95%;
    height: 110vh;
@@ -74,17 +74,13 @@ header{
    justify-content: center;
 }
 
-.writeup{
-    
-}
-
-.writeup h1{
+.writeup h1 {
     font-family: "Monsieur La Doulaise", sans-serif;
     font-size: 150px;
     font-weight: 400;
 }
 
-.writeup p{
+.writeup p {
     font-size: 34px;
     color: #ffff;
     text-align: center;
@@ -92,17 +88,17 @@ header{
     padding-bottom: 100px;
 }
 
-.writeup span{
+.writeup span {
     color: #ffff;
     font-size: 22px;
 }
 
-.banner{
+.banner {
     width: 95%;
     margin-top: 30px;
 }
 
-h2{
+h2 {
     font-size: 30px;
     text-align: center;
     text-decoration: underline;
@@ -110,13 +106,13 @@ h2{
     font-weight: 400;
 }
 
-.hero3{
+.hero3 {
     width: 95%;
     margin-top: 30px;
 
 }
 
-.hero3 p{
+.hero3 p {
     font-size: 20px;
     font-weight: 500;
     text-align: center;
@@ -124,11 +120,11 @@ h2{
     margin-bottom: 30px;
 }
 
-.con3{
+.con3 {
     width: 100%;
 }
 
-.hero3 .img-con{
+.hero3 .img-con {
     display: grid;
     flex-wrap: wrap;
     width: 100%;
@@ -138,7 +134,7 @@ h2{
 
 
 
-footer{
+footer {
     display: flex;
     width: 100%;
     justify-content: center;
@@ -147,7 +143,7 @@ footer{
     padding: 0px 20px;
 }
 
-footer .tencil{
+footer .tencil {
     font-size: 25px;
     font-weight: 500;
     padding: 106px 17px;
@@ -156,7 +152,7 @@ footer .tencil{
     border-right: 1px solid #000000;
 }
 
-.home p{
+.home p {
     padding: 8px 0px;
 }
 
@@ -167,13 +163,13 @@ form {
    padding: 40px 40px 40px 15px; 
 }
 
-form p{
+form p {
     color: #ffff;
     font-size: 30px;
     text-align: start;
 }
 
-form input{
+form input {
     width: 75%;
     border-radius: 10px;
     padding: 7px;
